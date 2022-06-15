@@ -1,7 +1,8 @@
+remote_theme: just-the-docs/just-the-docs
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
-remote_theme: just-the-docs/just-the-docs
+
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
@@ -13,9 +14,8 @@ title : Tomex
 tagline: Site Tagline
 author :
   name : Tomas Alloatti
-  email : blah@email.test
-  twitter : username
-  feedburner : feedname
+  email : tomasalloatti@gmail.com
+  twitter : tomexrage
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -27,7 +27,9 @@ author :
 #
 production_url : http://tomexlol.github.io
 
-gems: ["jekyll-sitemap"]
+plugins: ["jekyll-sitemap","jekyll-remote-theme"]
+
+
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -66,7 +68,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : false
+  ASSET_PATH : /assets/themes
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
