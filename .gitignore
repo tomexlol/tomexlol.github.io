@@ -8,3 +8,9 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
+.bundle/
+vendor/
