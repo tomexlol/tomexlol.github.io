@@ -10,7 +10,7 @@ parent: League of Legends
 
 # Ziggs: un champion cagón?
 
-Escribir sobre Kalista, un champion que es el mejor en lo que hace pero lo odio, me dio ganas de hablar sobre ziggs, otro personaje que es el mejor en lo que hace pero que me encanta.
+Escribir sobre Kalista, un champion que es el mejor en lo que hace pero lo odio, me dio ganas de hablar sobre Ziggs, otro personaje que es el mejor en lo que hace pero que me encanta.
 
 Exploramos en 3:30 las fortalezas ocultas del enano tirabombas en la botlane:
 
