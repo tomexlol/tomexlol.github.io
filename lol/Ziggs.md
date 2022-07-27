@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Por qué se pickea Ziggs"
+title: "Guía de Ziggs"
 description: ""
 category: 
 tags: []
