@@ -7,7 +7,7 @@ tagline: Supporting tagline
 
 
 
-you probably meant to visit [tomexlol.com/cv](tomexlol.com/cv)
+you probably meant to visit [tomexlol.com/cv](/cv)
 
 
 
