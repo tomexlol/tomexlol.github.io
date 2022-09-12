@@ -8,20 +8,20 @@ tags: []
 ---
 {% include JB/setup %}
 
-Hey. I originally had a full page of corporate bullshit here trying to convince people to hire me and I realized I really don't stand by any type of corporate bullshit and I was trying too hard to convince old fashioned people I didn't give a shit about. So this is my new way of telling you "hire me you idiot".
+Hey. I originally had a couple of paragraphs here trying to explain gaming and trying to tie my gaming career into the more standard corporate world.
 
 
-You know how I got hired at my last IT job? My HR friend got my CV past the first step, and then when the hiring manager saw it she was like "what the fuck is this? this guy has little experience, no education, and most of his carreer is playing a fucking videogame? is this a mistake or some kind of elaborate joke?"
+Instead, I have a proposal for you, dear HR person reading this.
 
 
-But another manager, someone smart as fuck from a very adjacent team, played League and he was Bronze, the lowest possible rank. He told my hiring manager "hey bitch, I play League of Legends, and I fucking suck. The game is hard as fuck, probably harder than our jobs. Someone who was a professional at this game will be smart, 100%, I guarantee it. They can learn this job, interview them. Give them a chance."
+**Non-gamers**: go talk to whoever you know that plays online games. Co-workers, family, friends. Ask them about League of Legends, tell them about the position you're looking to fill, and ask if they think a top tier League of Legends coach and player would be smart enough to excel at the job.
 
 
-And I walked into the interview and I got the job, of course, because when you talk to me for three minutes you can instantly tell I'm smart. But it's impossible to get an interview when you dumb fucks at HR don't even know what League of Legends is and you just see "lol no degree!! a game?? haha what a joke, next!". Everyone who tries hard graduates - being a League pro implies constantly being 99.9% percentile in an ultra competitive, huge worldwide thing where most people who try hard fail miserably and they're not even close to success.
+They'll sell me to you better than I can sell me myself. I can sit here all day writing about how I'm very smart and it'd be just like any other resume, just a stranger self-aggrandizing. I've been a top tier competitor, 99.9 percentile, of my game, one of if not the most played game in the world, for 10 years now. I can learn whatever job and I have the natural drive to try and be the best at whatever it is I do.
 
 
-So do me a fucking favor, please. Go ask the gamer in your office if he would hire me for your easy as shit position. Hear it from the guy you already know, he'll do more to convince you than any amount of corporate-bullshit-reeking, buzzword-infested, soul-sucking paragraphs I might throw at you from the comfort of my website.
+But don't hear it from me. I'm just a dude looking for a job trying to improve his chances. Hear it from someone whose opinion you actually trust. **Ask a gamer if they'd at least interview someone with my experience.**
 
 
-I'll be the best guy in your team in 3 months.
+**Gamers**: if you play any kind of competitive online game you know how hard it is to climb the ladder. Especially if you play League. Don't think I need to say anything else. Give me a call, let's talk.
 
