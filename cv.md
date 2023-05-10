@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "Things I've made"
+title: "portfolio"
 description: ""
 category: 
 tags: []
-
 ---
 {% include JB/setup %}
 
