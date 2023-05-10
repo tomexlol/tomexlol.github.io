@@ -4,7 +4,6 @@ title: "Análisis de Lol para casters"
 description: ""
 category: 
 tags: []
-parent: League of Legends
 ---
 {% include JB/setup %}
 

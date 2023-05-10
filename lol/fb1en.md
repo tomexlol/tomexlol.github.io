@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "Fucking Broken 1: the Scientific Method"
+title: "the scientific method is broken"
 description: ""
 category: 
 tags: []
-parent: League of Legends
 ---
 {% include JB/setup %}
 

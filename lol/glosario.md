@@ -4,7 +4,6 @@ title: "Diccionario de Items ES/EN"
 description: ""
 category: 
 tags: []
-parent: League of Legends
 ---
 {% include JB/setup %}
 

@@ -4,7 +4,6 @@ title: "Por qué se pickea Kalista"
 description: ""
 category: 
 tags: []
-parent: League of Legends
 ---
 {% include JB/setup %}
 

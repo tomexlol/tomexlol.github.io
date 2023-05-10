@@ -4,7 +4,6 @@ title: "Guía de Ziggs"
 description: ""
 category: 
 tags: []
-parent: League of Legends
 ---
 {% include JB/setup %}
 

@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "Fucking Broken 1: el Método Científico"
+title: "el método científico"
 description: ""
 category: 
 tags: []
-parent: League of Legends
 ---
 {% include JB/setup %}
 

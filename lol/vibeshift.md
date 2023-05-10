@@ -4,7 +4,6 @@ title: "Qué define a los mejores jugadores?"
 description: ""
 category: 
 tags: []
-parent: League of Legends
 ---
 {% include JB/setup %}
 # Qué define a los mejores jugadores?
