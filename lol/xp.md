@@ -23,7 +23,7 @@ seguro que hay algún momento del game que yo sospecho que si no es en level 6-7
 
 donde rinda dejar de farmear y quedarse un toque atrás para que tus carries saquen no sé level 11? su segundo item? más rápido
 
-y después en otro momento comebackeás con la catchup xp
+y después dentro de un rato comebackeás con la catchup xp
 
 es una estrategia que para mi recontra existe pero es difícil de matematiquear en tu cabeza cuándo es worth, es medio un calculo para científicos
 
