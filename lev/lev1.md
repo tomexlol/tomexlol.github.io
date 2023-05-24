@@ -27,7 +27,9 @@ los mejores equipos de lol sólo interactúan cuando tienen **máximas chances d
 
 saber jugar un buen neutral en midgame implica saber moverse por el mapa evitando situaciones de 50-50 o incluso de 60-40. se trata de saber generar situaciones donde uno tiene 90 o 95% de chance de éxito. sólo gamblear cuando ganamos. sólo gamblear cuando, si perdemos, no perdemos mucho.
 
-se trata de saber cerrar sistemáticamente todas y cada una de las ventanas de comeback enemigas, hacer bien lo que yo apodo "la del valorant". 
+se trata de saber cerrar sistemáticamente todas y cada una de las ventanas de comeback enemigas, hacer bien lo que yo apodo **"la del valorant"**. 
+
+<a href="https://youtu.be/ZvW_Us5J39M" target="_blank">VIDEO LINK: LA DEL VALORANT</a>
 
 
 ## 60-40 es malo
@@ -87,13 +89,28 @@ eventualmente va a llegar un momento donde los replegaste tanto que van a tener 
 
 # El que controla la Cebolla, controla la Liga
 
+
+<a href="https://youtu.be/UJQ7eUyxsvU" target="_blank">VIDEO LINK: LA CEBOLLA</a>
+
+
 la importancia del **core de la cebolla** en midgame es enorme. el core de la cebolla da flank angle sobre una porción enorme de sidelane. **es la zona más importante del mapa** en midgame. el equipo que controla la cebolla controla completamente el tempo del juego.
 
 
 el que controla el core de la cebolla controla la side que desea controlar. el que controle la side, controla el core de la cebolla.
 
 
-(el mapa es una cebolla.png/.gif)
+> <img src="../../../assets/images/cebo1.jpeg" 
+     width="350" 
+     height="350" /> <img src="../../../assets/images/cebo2.jpeg" 
+     width="350" 
+     height="350" />
+     
+
+
+
+> _Por qué "cebolla"? Porque me gusta pensar que el mapa se controla por "capas"(derecha)._
+ 
+> _La del medio es la más picante, igual que una cebolla! (izq)_
 
 
 mid control = side control
