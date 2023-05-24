@@ -25,7 +25,7 @@ No es sólo un cambio de mentalidad. Cuando empezás a competir TENÉS que inmed
 </blockquote>
 Phil Jackson - Eleven Rings: The Soul of Success
 </div>
-<div class="philSpanish" style="text-align: center;">
+<div class="philSpanish" style="text-align: center; display: none;">
 <blockquote>
 "Uno de los desafíos más grandes para los jugadores jóvenes que entran a la NBA es aprender cómo jugar siendo parte de un equipo. Han pasado la mayor parte de sus vidas siendo estrellas en su equipo de secundaria o universidad, donde se esperaba que dominen a sus oponentes mano a mano. Pero cuando llegan a pros, descubren que el juego es mucho más complejo y matizado de lo que creían. Tienen que aprender a leer defensas, a moverse sin la pelota, a settear pantallas, y a hacer mejor a sus compañeros mediante pases cuando estén abiertos. En resumen, tienen que aprender a jugar en un sistema que requiere que cedan sus propios intereses para el bien común del grupo."
 </blockquote>
