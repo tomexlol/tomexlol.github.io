@@ -7,8 +7,7 @@ tagline: Supporting tagline
 
 Hi, welcome to my website!
 
-
-Check out the [Things I've Made](https://www.tomexlol.com/cv) (programming) or the [Articles I've Written](https://www.tomexlol.com/lol/League%20of%20Legends) (League of Legends)
+All my stuff is on the sidebar, go click on whatever catches your eye <3
 
 
 
