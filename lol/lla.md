@@ -48,7 +48,7 @@ Esto les pasa sobre todo en el draft. El draft es el momento del juego donde má
 
 Muchas veces siento que entran al draft súper relajados y les lockean pick tras pick mientras ustedes están hablando giladas. Siento que en el draft hay tantas cosas para decir que no les debería alcanzar el tiempo para decirlas todas, mucho menos para hablar boludeces. Para poder llenar mejor el tiempo del draft con algo sustancioso, quiero que
 # 3. Exploren más el juego
-### La historia de la partida se revela a través de sus sutilezas
+### La historia de la partida se revela a través de sus sutilezas.
 Este juego es hermoso y tiene una cantidad de capas de complejidad increíbles. No pretendo que se las conozcan todas a la perfección, pero sí pretendo que tengan un entendimiento básico de las waves y los matchups del meta. Es criminal que me haya visto cinco earlygames y sólo hayan mencionado el estado de una wave una vez. Cinco drafts y una sola mención al push de una lane.
 
 El push en early define la ruta de los junglas, la ruta de los junglas define lo que va a pasar en los posteriores bounces, y lo que pase en situación de bounce define quién tendrá iniciativa, quién marcará el ritmo del juego en los próximos minutos.
@@ -58,7 +58,7 @@ En muchos games con sólo ver los picks uno ya puede  ir tejiendo el tapiz de la
 
 Sueño con un mundo donde los espectadores comparten mi fascinación con el juego, con este tapiz complejo y hermoso de posibilidades, pero para que eso pase necesito que
 # 2. Eliminen la palabra "debería"
-### Si no sabés, no opines - y mucho menos si vas a dudar
+### Si no sabés, no opines - y mucho menos si vas a dudar.
 Pasó algo distinto a lo que esperabas que pase? Excelente oportunidad de exploración. Podés aprender algo nuevo. Probablemente haya un motivo detrás que no entiendas, te aseguro que hasta el más malo de los proplayers tiene un conocimiento del juego súper amplio. En vez de dudar con superioridad, por qué no indagás con curiosidad?
 
 En vez de apuntar con el dedo y decir "esto no debería pasar!", por qué no intentás entender qué nos llevó a que pase? Por qué no hablás de qué va a pasar en el futuro ahora que sí pasó?
@@ -67,7 +67,7 @@ Pensá bien en qué imagen le estás dando al espectador cuando decís que algo 
 
 Ustedes son los comunicadores oficiales. La historia de la liga se escribe en sus bocas. Si, como yo, quieren que esta región crezca, dure, y prospere, necesito que
 # 1. Dejen de ser negativos
-### No jugamos perfecto, pero puta, tengamos un enfoque positivo por favor
+### No jugamos perfecto, pero puta, tengamos un enfoque positivo por favor.
 Su trabajo no es ser científicos del League of Legends. No necesitan demostrar su conocimiento marcando cada error como error. Muchísimas veces le dan un enfoque negativo a jugadas que sí, capaz son errores, pero podrían ser relatadas de formas totalmente distintas.
 
 Pongamos el foco en lo positivo, no en lo malo. Hablemos de lo que salió bien. Hablemos de cómo, a partir del error, el otro equipo va a transicionar a capitalizar una ventaja. Hablemos de las jugadas buenas y de las malas, pero no usemos tono negativo ni lenguaje negativo. No vendamos un mal producto.
