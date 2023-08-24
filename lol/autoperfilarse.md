@@ -56,7 +56,7 @@ si hoy son meta kassadin y corki, por ejemplo, capaz mañana sean meta ornn y lu
 siempre te soleás a tu rival? farméas increíble? sos buenísimo metiendo skillshots? nunca estás fuera de posición? calleás muy bien? sos el mejor mirador de minimapas del mundo? sos excelente en las primeras 3 waves? siempre sacas 2 placas 1v1? sabés perfectamente cuándo un gank sale bien y sos buenísimo setteandolo? sos el mejor counterjungler? se te da bien dejarle todos los recursos a tus compañeros? carreás siempre con tu main? nunca te matan en lane?
 
 
-así como estos hay mil cosas más en las que podés ser buenísimo, y para cada uno de estos miles de aspectos existe también la posibilidad de que seas absoluta y completamente horrible.
+hay mil cosas más de este estilo en las que podés ser buenísimo, y para cada uno de estos miles de aspectos existe también la posibilidad de que seas absoluta y completamente horrible.
 
 
 cuál es tu fortaleza máxima y cómo la vamos a usar para que este equipo gane el torneo? cuál es tu punto débil y qué vamos a hacer para que no nos claven la espada justo ahí?
