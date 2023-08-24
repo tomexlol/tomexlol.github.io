@@ -7,6 +7,8 @@ tags: []
 ---
 {% include JB/setup %}
 
+# bomes tips 1: autoperfilarse
+
 
 es muy importante conocerte a vos mismo como player.
 
