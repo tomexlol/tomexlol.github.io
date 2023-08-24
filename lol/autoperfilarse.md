@@ -40,7 +40,7 @@ el lol (y, realmente, cualquier esport) es un juego súper complejo con muchísi
 tenés que armarte un modelo mental lolero de esta imagen (las estadísticas de un jugador en el football manager):
 
 
-> ![](../../../assets/images/fm)
+> ![](../../../assets/images/fm1.png)
 
 
 en el lol está más que claro que los skills de un jugador no son "corners" ni "penalty taking". y tampoco hay un "lol manager" para guiarnos, así que te vas a tener que preguntar a vos mismo "cuáles son mis distintos skills, y cuántos puntos tengo en cada uno?"
