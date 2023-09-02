@@ -47,8 +47,7 @@ la gran mayoría de estas cosas aparecieron "de la nada". o sea, no es que cambi
 
 
 
-**
-el mundo cambia.**
+**el mundo cambia.**
 
 
 
