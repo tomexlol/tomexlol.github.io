@@ -52,7 +52,7 @@ en resumen:
 
 creo honestamente que casi todos los equipos se beneficiarían practicando muteados, con un límite de oraciones por jugador en cada game, o jugando a hablar en forma monótona como si no tuvieran sentimientos.
 
-seguime en tuiter [@tomexrage](twitter.com/tomexrage)
+seguime en tuiter [@tomexrage](https://twitter.com/tomexrage)
 
 
 
