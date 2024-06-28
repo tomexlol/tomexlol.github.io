@@ -54,7 +54,7 @@ This component displays the champions played, by us or against us. It sorts them
 This shows detailed info about head-to-head champion matchups. It's another valuable tool for gaining a more granular understanding of what worked and what didn't during practice. I would have used this a lot as well if I hadn't coded it after my tournament was over.
 
 ### Solo Queue Dashboard
-
+![](../../../assets/images/soloq)
 The solo queue dashboard communicates with the Flask backend. I chose Flask because I was already familiar with a Python wrapper for the Riot API, making it faster to ship even if it meant having two separate backends.
 
 When you click 'refresh' for a player, the Flask backend queries the Riot Games API for all games played by that player in the past week. It parses the data, stores it in a shelf file, and serves it from there to the frontend. It works, but it's not ideal - this really should be a database or moved to Redis.
